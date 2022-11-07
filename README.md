@@ -59,13 +59,3 @@ Please follow [Contributing Guide](./CONTRIBUTING.md) before contributing.
 ## License
 
 Mazer is under [MIT License](./LICENSE).
-
-## Author
-
-Mazer is created by <a href="https://saugi.me">Saugi</a>.
-
-## Donation
-
-You can support me at [Github Sponsors](https://github.com/zuramai), [Ko-fi](https://ko-fi.com/saugi) or [Trakteer](https://trakteer.id/saugi).
-
-<a href="https://buymeacoffee.com/saugi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
